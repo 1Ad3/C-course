@@ -1,2 +1,2 @@
-# C-course
-Code of C++
+# Cpp-course
+Code and concepts of C++
