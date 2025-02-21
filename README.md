@@ -1,4 +1,7 @@
 # Cpp-course
-Code of C++
-short projects
-semester project
+<b>Code of C++</b>
+<br>
+<b>short projects</b>
+<br>
+<b>semester project</b>
+
