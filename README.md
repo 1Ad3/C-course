@@ -1,2 +1,4 @@
 # Cpp-course
-Code and concepts of C++
+Code of C++
+short projects
+semester project
